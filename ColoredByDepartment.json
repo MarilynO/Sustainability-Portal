@@ -1,0 +1,252 @@
+{
+   "nodes" : [
+  {
+    "name": "ENERGY",
+    "id": "ENERGY"
+  },
+  {
+    "name": "Solar",
+    "id": "Solar"
+  },
+  {
+    "name": "Tidal/Hydrokinetic",
+    "id": "Tidal_Hydrokinetic"
+  },
+  {
+    "name": "Energy Harvesting",
+    "id": "Energy_Harvesting"
+  },
+  {
+    "name": "Bioenergy",
+    "id": "Bioenergy"
+  },
+  {
+    "name": "Fusion",
+    "id": "Fusion"
+  },
+  {
+    "name": "Wind",
+    "id": "Wind"
+  },
+  {
+    "name": "Engineering",
+    "id": "Engineering"
+  },
+  {
+    "name": "Arts & Sciences",
+    "id": "Arts_&_Sciences"
+  },
+  {
+    "name": "Environment",
+    "id": "Environment"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "id": "Mechanical_Engineering"
+  },
+  {
+    "name": "Materials Science and Engineering",
+    "id": "Materials_Science_and_Engineering"
+  },
+  {
+    "name": "Electrical Engineering",
+    "id": "Electrical_Engineering"
+  },
+  {
+    "name": "Chemical Engineering",
+    "id": "Chemical_Engineering"
+  },
+  {
+    "name": "Aeronautics and Astronautics",
+    "id": "Aeronautics_and_Astronautics"
+  },
+  {
+    "name": "Civil and Environmental Engineering",
+    "id": "Civil_and_Environmental_Engineering"
+  },
+  {
+    "name": "Chemistry",
+    "id": "Chemistry"
+  },
+  {
+    "name": "Physics",
+    "id": "Physics"
+  },
+  {
+    "name": "Microbiology",
+    "id": "Microbiology"
+  },
+  {
+    "name": "Biochemistry",
+    "id": "Biochemistry"
+  },
+  {
+    "name": "Biology",
+    "id": "Biology"
+  },
+  {
+    "name": "Evans School of Public Affairs",
+    "id": "Evans_School_of_Public Affairs"
+  },
+  {
+    "name": "Environmental and Forest Science",
+    "id": "Environmental_and_Forest_Science"
+  },
+  {
+    "name": "Physical Oceanography",
+    "id": "Physical_Oceanography"
+  }
+],
+   "links" : [
+  {
+    "source": 7,
+    "target": 14,
+    "value": 8
+  },
+  {
+    "source": 1,
+    "target": 8,
+    "value": 18
+  },
+  {
+    "source": 3,
+    "target": 8,
+    "value": 6
+  },
+  {
+    "source": 4,
+    "target": 8,
+    "value": 10
+  },
+  {
+    "source": 6,
+    "target": 8,
+    "value": 6
+  },
+  {
+    "source": 8,
+    "target": 19,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 26
+  },
+  {
+    "source": 8,
+    "target": 20,
+    "value": 2
+  },
+  {
+    "source": 7,
+    "target": 13,
+    "value": 10
+  },
+  {
+    "source": 8,
+    "target": 16,
+    "value": 14
+  },
+  {
+    "source": 7,
+    "target": 15,
+    "value": 6
+  },
+  {
+    "source": 7,
+    "target": 12,
+    "value": 12
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 20
+  },
+  {
+    "source": 1,
+    "target": 7,
+    "value": 26
+  },
+  {
+    "source": 2,
+    "target": 7,
+    "value": 12
+  },
+  {
+    "source": 3,
+    "target": 7,
+    "value": 14
+  },
+  {
+    "source": 4,
+    "target": 7,
+    "value": 8
+  },
+  {
+    "source": 5,
+    "target": 7,
+    "value": 6
+  },
+  {
+    "source": 4,
+    "target": 9,
+    "value": 8
+  },
+  {
+    "source": 9,
+    "target": 22,
+    "value": 6
+  },
+  {
+    "source": 8,
+    "target": 21,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 5,
+    "value": 6
+  },
+  {
+    "source": 7,
+    "target": 11,
+    "value": 20
+  },
+  {
+    "source": 7,
+    "target": 10,
+    "value": 22
+  },
+  {
+    "source": 8,
+    "target": 18,
+    "value": 6
+  },
+  {
+    "source": 9,
+    "target": 23,
+    "value": 2
+  },
+  {
+    "source": 8,
+    "target": 17,
+    "value": 8
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 44
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 12
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 6
+  }
+]
+}

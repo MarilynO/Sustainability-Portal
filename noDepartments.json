@@ -1,0 +1,706 @@
+{
+   "nodes" : [
+  {
+    "name": "ENERGY",
+    "id": "ENERGY"
+  },
+  {
+    "name": "Solar",
+    "id": "Solar"
+  },
+  {
+    "name": "Tidal/Hydrokinetic",
+    "id": "Tidal_Hydrokinetic"
+  },
+  {
+    "name": "Energy Harvesting",
+    "id": "Energy_Harvesting"
+  },
+  {
+    "name": "Bioenergy",
+    "id": "Bioenergy"
+  },
+  {
+    "name": "Fusion",
+    "id": "Fusion"
+  },
+  {
+    "name": "Wind",
+    "id": "Wind"
+  },
+  {
+    "name": "Engineering",
+    "id": "Engineering"
+  },
+  {
+    "name": "Arts & Sciences",
+    "id": "Arts_&_Sciences"
+  },
+  {
+    "name": "Environment",
+    "id": "Environment"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "id": "Mechanical_Engineering"
+  },
+  {
+    "name": "Materials Science and Engineering",
+    "id": "Materials_Science_and_Engineering"
+  },
+  {
+    "name": "Electrical Engineering",
+    "id": "Electrical_Engineering"
+  },
+  {
+    "name": "Chemical Engineering",
+    "id": "Chemical_Engineering"
+  },
+  {
+    "name": "Aeronautics and Astronautics",
+    "id": "Aeronautics_and_Astronautics"
+  },
+  {
+    "name": "Civil and Environmental Engineering",
+    "id": "Civil_and_Environmental_Engineering"
+  },
+  {
+    "name": "Chemistry",
+    "id": "Chemistry"
+  },
+  {
+    "name": "Physics",
+    "id": "Physics"
+  },
+  {
+    "name": "Microbiology",
+    "id": "Microbiology"
+  },
+  {
+    "name": "Biochemistry",
+    "id": "Biochemistry"
+  },
+  {
+    "name": "Biology",
+    "id": "Biology"
+  },
+  {
+    "name": "Evans School of Public Affairs",
+    "id": "Evans_School_of_Public Affairs"
+  },
+  {
+    "name": "Environmental and Forest Science",
+    "id": "Environmental_and_Forest_Science"
+  },
+  {
+    "name": "Physical Oceanography",
+    "id": "Physical_Oceanography"
+  },
+  {
+    "name": "Computer Science and Engineering",
+    "id": "Computer_Science_and_Engineering"
+  }
+],
+   "links" : [
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 5,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 5,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 5,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 4,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 18,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 18,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 17,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 17,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 17,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 17,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 14,
+    "value": 2
+  },
+  {
+    "source": 5,
+    "target": 14,
+    "value": 2
+  },
+  {
+    "source": 5,
+    "target": 14,
+    "value": 2
+  },
+  {
+    "source": 5,
+    "target": 14,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 13,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 13,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 13,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 13,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 13,
+    "value": 2
+  },
+  {
+    "source": 2,
+    "target": 15,
+    "value": 2
+  },
+  {
+    "source": 6,
+    "target": 15,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 24,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 12,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 2
+  },
+  {
+    "source": 6,
+    "target": 12,
+    "value": 2
+  },
+  {
+    "source": 6,
+    "target": 12,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 11,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 2,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 2,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 2,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 2,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 2,
+    "target": 10,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 22,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 22,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 22,
+    "value": 2
+  },
+  {
+    "source": 2,
+    "target": 12,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 19,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 20,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 16,
+    "value": 2
+  },
+  {
+    "source": 3,
+    "target": 16,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "value": 2
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "value": 2
+  },
+  {
+    "source": 6,
+    "target": 21,
+    "value": 2
+  },
+  {
+    "source": 4,
+    "target": 18,
+    "value": 2
+  }
+]
+}
