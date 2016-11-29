@@ -1,0 +1,227 @@
+{
+"links":[
+  {
+    "source": "ENERGY",
+    "target": "Bioenergy",
+    "value": "26"
+  },
+  {
+    "source": "ENERGY",
+    "target": "Energy Harvesting",
+    "value": "20"
+  },
+  {
+    "source": "ENERGY",
+    "target": "Fusion",
+    "value": "6"
+  },
+  {
+    "source": "ENERGY",
+    "target": "Solar",
+    "value": "44"
+  },
+  {
+    "source": "ENERGY",
+    "target": "Tidal/Hydrokinetic",
+    "value": "12"
+  },
+  {
+    "source": "ENERGY",
+    "target": "Wind",
+    "value": "6"
+  },
+  {
+    "source": "Bioenergy",
+    "target": "Arts & Sciences",
+    "value": "10"
+  },
+  {
+    "source": "Bioenergy",
+    "target": "Engineering",
+    "value": "8"
+  },
+  {
+    "source": "Bioenergy",
+    "target": "Environment",
+    "value": "8"
+  },
+  {
+    "source": "Energy Harvesting",
+    "target": "Arts & Sciences",
+    "value": "6"
+  },
+  {
+    "source": "Energy Harvesting",
+    "target": "Engineering",
+    "value": "14"
+  },
+  {
+    "source": "Fusion",
+    "target": "Engineering",
+    "value": "6"
+  },
+  {
+    "source": "Solar",
+    "target": "Arts & Sciences",
+    "value": "16"
+  },
+  {
+    "source": "Solar",
+    "target": "Engineering",
+    "value": "26"
+  },
+  {
+    "source": "Tidal/Hydrokinetic",
+    "target": "Engineering",
+    "value": "12"
+  },
+  {
+    "source": "Wind",
+    "target": "Arts & Sciences",
+    "value": "6"
+  },
+  {
+    "source": "Arts & Sciences",
+    "target": "Biochemistry",
+    "value": "2"
+  },
+  {
+    "source": "Arts & Sciences",
+    "target": "Biology",
+    "value": "2"
+  },
+  {
+    "source": "Arts & Sciences",
+    "target": "Evans School of Public Affairs",
+    "value": "2"
+  },
+  {
+    "source": "Environment",
+    "target": "Physical Oceanography",
+    "value": "2"
+  },
+  {
+    "source": "Engineering",
+    "target": "Civil and Environmental Engineering",
+    "value": "6"
+  },
+  {
+    "source": "Environment",
+    "target": "Environmental and Forest Science",
+    "value": "6"
+  },
+  {
+    "source": "Arts & Sciences",
+    "target": "Microbiology",
+    "value": "6"
+  },
+  {
+    "source": "Engineering",
+    "target": "Aeronautics and Astronautics",
+    "value": "8"
+  },
+  {
+    "source": "Arts & Sciences",
+    "target": "Physics",
+    "value": "8"
+  },
+  {
+    "source": "Engineering",
+    "target": "Chemical Engineering",
+    "value": "10"
+  },
+  {
+    "source": "Engineering",
+    "target": "Electrical Engineering",
+    "value": "12"
+  },
+  {
+    "source": "Arts & Sciences",
+    "target": "Chemistry",
+    "value": "14"
+  },
+  {
+    "source": "Engineering",
+    "target": "Materials Science and Engineering",
+    "value": "20"
+  },
+  {
+    "source": "Engineering",
+    "target": "Mechanical Engineering",
+    "value": "22"
+  }
+] ,
+"nodes": [
+  {
+    "name": "Arts & Sciences"
+  },
+  {
+    "name": "Aeronautics and Astronautics"
+  },
+  {
+    "name": "Biochemistry"
+  },
+  {
+    "name": "Biology"
+  },
+  {
+    "name": "Chemical Engineering"
+  },
+  {
+    "name": "Chemistry"
+  },
+  {
+    "name": "Civil and Environmental Engineering"
+  },
+  {
+    "name": "Electrical Engineering"
+  },
+  {
+    "name": "Engineering"
+  },
+  {
+    "name": "Environment"
+  },
+  {
+    "name": "Environmental and Forest Science"
+  },
+  {
+    "name": "Evans School of Public Affairs"
+  },
+  {
+    "name": "Materials Science and Engineering"
+  },
+  {
+    "name": "Mechanical Engineering"
+  },
+  {
+    "name": "Microbiology"
+  },
+  {
+    "name": "Physical Oceanography"
+  },
+  {
+    "name": "Physics"
+  },
+  {
+    "name": "Bioenergy"
+  },
+  {
+    "name": "Energy Harvesting"
+  },
+  {
+    "name": "Fusion"
+  },
+  {
+    "name": "Solar"
+  },
+  {
+    "name": "Tidal/Hydrokinetic"
+  },
+  {
+    "name": "Wind"
+  },
+  {
+    "name": "ENERGY"
+  }
+] }
